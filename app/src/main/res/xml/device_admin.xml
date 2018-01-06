@@ -1,0 +1,14 @@
+<device-admin xmlns:Android="http://schemas.android.com/apk/res/android" >
+    <!--
+      limit-password  設置密碼的規則
+      watch-login 監控屏幕解鎖嘗試次數
+      reset-password 更改屏幕解鎖密碼
+      force-lock 設備自動鎖屏
+      wipe-data 刪除全部的數據
+    -->
+
+    <uses-policies>
+        <force-lock />
+    </uses-policies>
+
+</device-admin>

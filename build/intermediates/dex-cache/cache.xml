@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\transforms\dex\completed\debug\folders\1000\10\common-1.0.0_1c4bb69efeb70b6c658b4737f6f3514e68095c88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\22ec2f4937e51d4aee64d338a4add6bfa0d605fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\transforms\dex\completed\debug\folders\1000\10\classes_b82910a54fe05ba151007207bc19f06b7f861a8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\pre-dexed\completed\debug\common-1.0.0_1c4bb69efeb70b6c658b4737f6f3514e68095c88.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\0debce710e1ef43c49342327607cee3a521f56a9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\transforms\dex\completed\debug\folders\1000\10\classes_2be8b51d8e4f2bb43f189214d183ca7bb1aca07c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\ae2bcea315a9f194dc87d33b5b8da36eeec9b17a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\pre-dexed\completed\debug\classes_cc5761117a3d3e8409062b127df582c8ca81a423.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\pre-dexed\completed\debug\support-annotations-26.1.0_8b973bb99f664607e3a0f6f9c9c166f38956ddbc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LockScreenAllInOneRootless\app\build\intermediates\incremental-classes\completed\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5b4c17ea225d3d76a89ad0de72b4e767f1c7de54">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\transforms\dex\completed\debug\folders\1000\10000\instant-run-bootstrap_b016963af68c0bd88a47db48bf8ecdcc26ec8e33\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\0a937751e55a22d85d02b3e6d563dd0e9aa81651\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\pre-dexed\completed\debug\classes_428272d55bf8c466c6ec92763bdefaf6812e6927.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\0a937751e55a22d85d02b3e6d563dd0e9aa81651\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\transforms\dex\completed\debug\folders\1000\10\classes_428272d55bf8c466c6ec92763bdefaf6812e6927\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\ae2bcea315a9f194dc87d33b5b8da36eeec9b17a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\transforms\dex\completed\debug\folders\1000\10\classes_cc5761117a3d3e8409062b127df582c8ca81a423\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\b603e6cf4dd8012cd4d4e6fd26341dbee23d79ed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\transforms\dex\completed\debug\folders\1000\10\classes_6d3d45f02eebdc4788fca57f72acce0c9ed94fd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\transforms\dex\completed\debug\folders\1000\10\support-annotations-26.1.0_8b973bb99f664607e3a0f6f9c9c166f38956ddbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\0debce710e1ef43c49342327607cee3a521f56a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\pre-dexed\completed\debug\classes_2be8b51d8e4f2bb43f189214d183ca7bb1aca07c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\3530a6b3996483a2c0fbbf4059e0540fbf8ee049\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\transforms\dex\completed\debug\folders\1000\10\classes_d54049d5833235df10b40fb0f21750c91933bce2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\49c579ecb9d0077c0d814e1dbbed4bd589302119\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\transforms\dex\completed\debug\folders\1000\10\classes_60b81d57dda98012d6bff2c3a3724152b9cb1159\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\b603e6cf4dd8012cd4d4e6fd26341dbee23d79ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\pre-dexed\completed\debug\classes_6d3d45f02eebdc4788fca57f72acce0c9ed94fd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\49c579ecb9d0077c0d814e1dbbed4bd589302119\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\pre-dexed\completed\debug\classes_60b81d57dda98012d6bff2c3a3724152b9cb1159.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\d16419989ee4fc9aebfefd6209dc8d1921ee6f71\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\pre-dexed\completed\debug\classes_6f285e46a69d0520188ce8778081c854806516b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\caf1c4522614fc3528b9087124d16eb2497f8bed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\pre-dexed\completed\debug\classes_42ef4d35b2b00696ec0d4d8c6048849a0464296b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\d16419989ee4fc9aebfefd6209dc8d1921ee6f71\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\transforms\dex\completed\debug\folders\1000\10\classes_6f285e46a69d0520188ce8778081c854806516b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\8361e0dc8ff5e0375502226843dede59ea17c7e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\pre-dexed\completed\debug\classes_6247d8296220033bc21aa2ebac9a6dd5be73465a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\3530a6b3996483a2c0fbbf4059e0540fbf8ee049\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\pre-dexed\completed\debug\classes_d54049d5833235df10b40fb0f21750c91933bce2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\transforms\dex\completed\debug\folders\1000\10\common-1.0.0_34ca24e8cff1f829d4bac2a8acae5d89393e0831\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LockScreenAllInOneRootless\app\build\intermediates\incremental-runtime-classes\completed\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\transforms\dex\completed\debug\folders\1000\10000\instant-run_30f953c90ce6d8ca4811813908e30cb0bd165913\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\pre-dexed\completed\debug\common-1.0.0_34ca24e8cff1f829d4bac2a8acae5d89393e0831.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\caf1c4522614fc3528b9087124d16eb2497f8bed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\transforms\dex\completed\debug\folders\1000\10\classes_42ef4d35b2b00696ec0d4d8c6048849a0464296b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\22ec2f4937e51d4aee64d338a4add6bfa0d605fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\pre-dexed\completed\debug\classes_b82910a54fe05ba151007207bc19f06b7f861a8d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\8361e0dc8ff5e0375502226843dede59ea17c7e3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="D:\LockScreenAllInOneRootless\app\build\intermediates\transforms\dex\completed\debug\folders\1000\10\classes_6247d8296220033bc21aa2ebac9a6dd5be73465a\classes.dex" />
+    </item>
+
+</items>
