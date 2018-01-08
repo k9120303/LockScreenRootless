@@ -17,13 +17,19 @@ package g7.lockscreenrootless;
 import android.annotation.SuppressLint;
 import android.annotation.TargetApi;
 import android.app.admin.DevicePolicyManager;
+import android.content.ComponentName;
 import android.content.Context;
+import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.drawable.Icon;
 import android.os.Build;
+import android.os.Bundle;
 import android.service.quicksettings.Tile;
 import android.service.quicksettings.TileService;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+
+import static android.support.v4.app.ActivityCompat.startActivityForResult;
 
 @SuppressLint("Override")
 @TargetApi(Build.VERSION_CODES.N)
@@ -60,11 +66,37 @@ public class QuickSettingsService extends TileService implements QuickSettingsSe
         updateTile();
     }
 
-    //實作下拉Lock的部分
+    /*//實作下拉Lock的部分
     public void Lock(){
         DevicePolicyManager devicePolicyManager;
         devicePolicyManager = (DevicePolicyManager) getSystemService(Context.DEVICE_POLICY_SERVICE);
         devicePolicyManager.lockNow();
+    }*/
+
+
+    public void Lock() {
+        // REQUEST_CODE 是之後在接 onActivityResult 所需要的常數
+        // devicePolicyManager 是實際上執行鎖屏的實體
+        final int REQUEST_CODE = 100;
+        DevicePolicyManager devicePolicyManager;
+
+        ComponentName componentName = new ComponentName(getApplicationContext(), deviceAdminReceiver.class);
+        devicePolicyManager = (DevicePolicyManager) getSystemService(Context.DEVICE_POLICY_SERVICE);
+
+        // 偵測裝置管理員是否被勾選
+        boolean isAdminActive = devicePolicyManager.isAdminActive(componentName);
+        if (!isAdminActive) {
+            Intent intent = new Intent(DevicePolicyManager.ACTION_ADD_DEVICE_ADMIN);
+            intent.putExtra(DevicePolicyManager.EXTRA_DEVICE_ADMIN, componentName);
+            intent.putExtra(DevicePolicyManager.EXTRA_ADD_EXPLANATION, "若要解除安裝此程式，請至 設定 > 安全性 > 裝置管理員 內取消此 App 的勾選");
+            startActivityForResult(intent, REQUEST_CODE);
+        } else {
+            // 鎖屏
+            devicePolicyManager.lockNow();
+        }
+    }
+
+    private void startActivityForResult(Intent intent, int request_code) {
     }
 
     /*
